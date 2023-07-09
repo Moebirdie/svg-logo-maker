@@ -1,0 +1,20 @@
+        <svg version="1.1"
+
+             xmlns="http://www.w3.org/2000/svg">
+        
+        <polygon points="150, 18 244, 182 56, 182" fill="blue" />
+        <style>
+           .bold {
+             font-weight: bold;
+           }
+           .fontAttributes {
+             font: 67px sans-serif;
+           }
+
+        </style>
+        
+          <text x="150" y="160" class="fontAttributes" text-anchor="middle" fill="yellow" >SVG</text>
+        
+        </svg>
+
+        
