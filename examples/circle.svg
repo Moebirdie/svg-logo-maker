@@ -1,0 +1,17 @@
+        <svg version="1.1"
+             xmlns="http://www.w3.org/2000/svg">
+        
+        <circle r="150" fill="blue" cx="150" cy="150"/>
+        <style>
+           .bold {
+             font-weight: bold;
+           }
+           .fontAttributes {
+             font: italic 100px sans-serif;
+           }
+
+        </style>
+        
+          <text x="150" y="155" class="fontAttributes" dominant-baseline="middle" text-anchor="middle" fill="yellow" >SVG</text>
+        
+        </svg>
