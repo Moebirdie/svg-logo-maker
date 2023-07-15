@@ -1,5 +1,16 @@
 const fs = require('fs');
-//const inquirer = require('./node_modules/inquirer');
-const userinput = require('./lib/userinputs');
+const userInput = require('./lib/userinputs');
+const generateSVGFiles  = require('./lib/generateSVG.js');
+const { error } = require('console');
 
-const newAnswers = userinput.askQuestions();
+
+ const createNewSVG = () => {
+ try {
+     userInput.askQuestions().then(generateSVGFiles.generateSVG);
+   //  console.log('SVG generated successfully.');
+ } catch (error) {
+     console.error('An error occurred:', error);
+ }
+}
+
+createNewSVG();
