@@ -1,0 +1,8 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+          <rect height="200" width="200" fill="blue" x="50" y="0" rx="0" ry="0"/>
+            <style>
+                .fontAttributes {
+                    font: 67px sans-serif;
+                }
+            </style>
+            <text x="150" y="100" class="fontAttributes" dominant-baseline="middle" text-anchor="middle" fill="yellow">goo</text></svg>
