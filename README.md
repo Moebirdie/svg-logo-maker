@@ -28,9 +28,9 @@ A user installs this application by:
 
 	2. Installing Node.js  
 
-	3. Installing Inqirer.js 
+	3. Installing Inqirer.js  
 
-  4. Installing Jest if you want to run the tests
+  	4. Installing Jest if you want to run tests 
 
 ## Usage <a id="Usage"></a>
 
