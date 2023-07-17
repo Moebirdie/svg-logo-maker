@@ -64,10 +64,13 @@ There are 12 tests (4 tests within each shape) within this application:
 - Text - which tests the inherited setText function for each child class
 - Text Color - which tests the inherited setTextColor function for each child class
 
+## Reference  
+mdn web docs - promises() constructor: provided insight in writing the promise  [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise)
+
   
 ## Questions <a id="Questions"></a>  
 
-Questions can be directed to maureen.business@gmail.com or submitted via my Github account at [https://github.com/Moebirdie/svg-logo-maker/edit/main/README.md](https://github.com/Moebirdie/svg-logo-maker/edit/main/README.md)).
+Questions can be directed to maureen.business@gmail.com or submitted via my Github account at [https://github.com/Moebirdie/svg-logo-maker/edit/main/README.md](https://github.com/Moebirdie/svg-logo-maker/edit/main/README.md).
 
     
 ## License <a id="License"></a>
