@@ -9,7 +9,7 @@ The specific file structure used here creates each file as a module within the l
 
 The video recording below walks through the file structures, code, creation of an svg that meets the requirements of the project and running of the various tests.
 
-Link to video recording: [Video Recording](https://watch.screencastify.com/v/FQHnwyv1kiamS1cnZAFX)  
+Link to video recording: [Video Recording](https://watch.screencastify.com/v/sTpE3B3ejhGKAssi1epI)  
 
 ## Table of Contents
 
